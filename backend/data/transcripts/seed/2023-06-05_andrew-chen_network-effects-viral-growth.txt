@@ -1,0 +1,56 @@
+---
+title: Building Viral Products — Andrew Chen on Network Effects and Growth Loops
+guest: Andrew Chen
+date: 2023-06-05
+url: https://www.lennysnewsletter.com/p/andrew-chen-network-effects
+---
+
+Andrew Chen is a General Partner at Andreessen Horowitz and author of "The Cold Start Problem." He joined Lenny to discuss network effects, growth loops, and why most products fail to achieve viral growth.
+
+LENNY: Andrew, your book "The Cold Start Problem" has become a must-read for product people. What's the core insight?
+
+ANDREW CHEN: The core insight is that networked products — any product that gets better the more people use it — face a fundamental cold start problem. The product is useless or worse than alternatives when there are no users. So you have to do non-scalable things to get the first users and get to the point where network effects kick in.
+
+The mistake most people make is thinking about "network effects" as a strategy. Network effects are not a strategy. They're an outcome. The strategy is figuring out how to get to the point where you have enough density of engaged users that the network starts to self-sustain.
+
+LENNY: What's the "atomic network" concept?
+
+ANDREW CHEN: An atomic network is the smallest possible network where the product provides full value. For Zoom, the atomic network is two people on a video call. For Airbnb, it's a handful of hosts and guests in a specific city. For Slack, it was a team of collaborators.
+
+Most products try to launch globally when they should be launching in a single atomic network first. Uber launched in San Francisco. Airbnb launched by being the provider of air mattresses at conferences. Tinder launched at USC. Each of these was an atomic network that could be density-filled quickly.
+
+Once you have one atomic network working — where the product provides genuine value and users are retained — you replicate that network in other geographies or contexts. You're not trying to fill the world with one launch; you're copying a working playbook repeatedly.
+
+LENNY: How do you distinguish good virality from bad virality?
+
+ANDREW CHEN: Good virality happens when people share the product because sharing provides value to both the sharer and the recipient. Bad virality is spam — you're extracting attention from a user's network without providing value.
+
+The test is: when a user shares your product with someone new, does the new user get immediate value? If the answer is yes, that's a good viral loop. If the answer is "they get spammed until they install the app," that's bad virality. Bad virality works for a while — you get growth — but it destroys brand reputation and leads to high churn.
+
+The best viral loops I've seen have two properties: they're embedded in the core product workflow (not bolted on as a "share" button), and they create real value for the invitee. Dropbox's referral program gave extra storage to both parties. Calendly's share loop — when you send a scheduling link — forces exposure of a useful product. Loom's share loop — when you share a video — shows exactly what the product does.
+
+LENNY: What are growth loops, and how are they different from funnels?
+
+ANDREW CHEN: Funnels are linear. Users enter at the top and flow through to some outcome. You optimize each step. But funnels are finite — you can optimize them to perfection and then you're done. They don't compound.
+
+Growth loops are circular and compounding. The output of one cycle becomes the input to the next. For example: user creates content → content gets indexed in search → new users find content through search → some become creators → they create more content → more search indexing. That's a content flywheel. Each cycle makes the next cycle bigger.
+
+The most durable businesses I've seen are built on growth loops, not funnels. Pinterest, Reddit, YouTube — all have content flywheels. Airbnb, Uber — supply-side loops where more supply generates more demand which attracts more supply. LinkedIn — professional data loop where more data makes better recommendations which attracts more professionals.
+
+LENNY: What's the hardest thing about building for network effects?
+
+ANDREW CHEN: The hardest thing is that you have to build two products simultaneously. You have to build the product that existing users experience, and you have to build the product that new users experience — and these are often very different.
+
+For Airbnb, experienced hosts don't need onboarding help. But a new host who's never listed a property before is terrified and needs enormous support. The new-user experience and the experienced-user experience require completely different designs.
+
+The mistake most teams make is optimizing the product for their existing active users — who are vocally engaged and give lots of feedback — while ignoring the new user experience. The new user experience is harder to see because new users who fail just quietly leave. There's no feedback loop from people who churned before getting value.
+
+The best teams I've worked with build explicit teams or workflows for the new user experience. They obsess over day-one and day-seven retention, not just the metrics of their active users.
+
+LENNY: What's your advice for a product team trying to engineer virality?
+
+ANDREW CHEN: First, understand whether your product category can be viral at all. B2B SaaS has much lower inherent virality than consumer social. It's not that virality is impossible in B2B — Slack and Notion have it — but you have to design for it explicitly, and the mechanisms are different.
+
+Second, look for what I call "the natural share moment" — the moment in your product where a user has created value and would naturally want to share it. For Canva, that's when you've made something beautiful. For Strava, that's when you've finished a workout. For Notion, that's when you've built a page you're proud of. Build the sharing workflow at that exact moment.
+
+Third, measure virality as a K-factor: for every active user, how many new users does that active user generate? If your K-factor is above 1, your product will grow without external acquisition. If it's below 1, you need paid or organic acquisition. Most products have a K-factor well below 1, which is fine — it means you need other channels — but you should know your number.

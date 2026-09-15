@@ -1,0 +1,56 @@
+---
+title: The Science of Growing Products — Casey Winters on Growth
+guest: Casey Winters
+date: 2023-03-12
+url: https://www.lennysnewsletter.com/p/casey-winters-growth
+---
+
+Casey Winters has been Chief Product Officer at Eventbrite and a growth advisor to companies including Pinterest, Reddit, Airbnb, and Grubhub. This conversation covers the fundamentals of sustainable product growth.
+
+LENNY: Casey, you've helped some of the biggest consumer companies grow. What's the single most important thing you've learned about growth?
+
+CASEY WINTERS: Retention is the foundation of everything. I can't say this enough times. Retention is the foundation. If you don't have retention, you don't have a product. You have a leaky bucket, and no matter how much acquisition you pour in, you'll never build something durable.
+
+The most common mistake I see product teams make — and I made it myself early in my career — is optimizing for acquisition before they've solved retention. They say "we need more users" when what they actually need is to understand why users who joined aren't coming back.
+
+LENNY: How do you diagnose a retention problem?
+
+CASEY WINTERS: The first thing I do is look at retention cohorts. Not aggregate retention — that averages away too much signal. Cohort retention shows you whether your product is getting better or worse over time, and it shows you which user segments retain best.
+
+The second thing is understanding the "aha moment." Every product has a moment where a new user realizes why the product is valuable. At Pinterest, it was when someone found their first piece of content they wanted to save. At Grubhub, it was completing a first order on a night you didn't want to cook.
+
+The question is: how quickly does the typical new user get to that aha moment? And what's blocking them from getting there faster? Usually the biggest growth lever isn't in your acquisition funnel — it's in closing the gap between someone signing up and experiencing the core value.
+
+LENNY: What's the difference between good growth and bad growth?
+
+CASEY WINTERS: Bad growth is any growth where you're acquiring users who are unlikely to find value in your product. It inflates your metrics temporarily and destroys your economics. You pay to acquire users who churn immediately, pulling down your retention curves and making your data harder to read.
+
+Good growth is growth that compounds. When you acquire users who have high lifetime value, they: stick around, use the product more over time, and refer others. The unit economics work, and the business compounds.
+
+The test I use: if I stopped all acquisition efforts today, would the business still grow? If you have enough retained users who are referring others, the answer is yes. That's the goal. At Pinterest, we reached a point where over 50% of new user signups came from existing users sharing content. That's what compounding growth looks like.
+
+LENNY: How do you think about the relationship between product and growth?
+
+CASEY WINTERS: Growth is product work. The distinction between "product" and "growth" is mostly organizational — it's about who focuses on what. But mechanistically, they're the same. Both are about understanding users and building things that create value.
+
+The best growth teams I've seen operate like mini product teams. They have hypotheses, they run experiments, they build features. The difference is that growth teams tend to be more focused on the acquisition and retention funnels specifically, while product teams tend to think about the core experience.
+
+The dysfunction happens when growth and product are siloed. When the growth team is buying users with promotions and the product team doesn't know about it. Or when the product team builds features without thinking about how they affect retention. You want these teams talking every week.
+
+LENNY: What's the most underrated growth lever?
+
+CASEY WINTERS: Notification and communication systems. Seriously. Email, push notifications, SMS — done right, these are incredibly powerful retention tools. Done wrong — spammy, untargeted — they destroy retention and your brand.
+
+The key insight is that notifications should be triggered by behavior, not by a schedule. "You have a message from Sarah" converts because it's relevant. "Check out what's new on the platform!" doesn't, because it's not about the user — it's about you.
+
+At Pinterest, we rebuilt our email system to be entirely behavior-triggered. If you saved something from a particular category, you'd get emails with new content from that category. Engagement went up dramatically because the content was actually relevant.
+
+The second most underrated lever is search engine optimization, especially for marketplaces and content platforms. Organic search is the only acquisition channel where the cost decreases as you scale. Every piece of indexed content is a permanent acquisition asset.
+
+LENNY: What advice do you give to early-stage companies about when to hire a growth team?
+
+CASEY WINTERS: Don't hire a growth team until you have product-market fit. Full stop. If you don't have retention, a growth team just burns money faster.
+
+Product-market fit is a fuzzy concept, but here's how I operationalize it: Can you describe, in a sentence, a specific user who would be devastated if your product went away? And when you talk to users who match that description, do they spontaneously tell you about times they've recommended you to someone?
+
+If both of those are true, you might have PMF. Then it's time to pour fuel on the fire. Before that point, the growth team's job is to help you find PMF faster — not to scale what you have.

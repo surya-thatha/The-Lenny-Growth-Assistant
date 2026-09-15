@@ -1,0 +1,52 @@
+---
+title: The Art of Pricing — Madhavan Ramanujam on Monetization Strategy
+guest: Madhavan Ramanujam
+date: 2023-04-22
+url: https://www.lennysnewsletter.com/p/madhavan-ramanujam-pricing
+---
+
+Madhavan Ramanujam is a board member at Simon-Kucher & Partners and author of "Monetizing Innovation." He's helped companies from startups to Fortune 500s fix their pricing strategies.
+
+LENNY: Madhavan, you've said that most companies get pricing wrong in a very predictable way. What is it?
+
+MADHAVAN RAMANUJAM: The classic mistake is building the product first and then asking "what should we charge?" That's backwards. Pricing is a product decision, not a finance decision, and it should be made at the same time as every other product decision — ideally before you build anything.
+
+Here's the sequence most companies follow: build → launch → price. Here's the sequence that works: understand willingness to pay → design the product to match → price accordingly. When you build first, you often build features that nobody will pay for, and you leave money on the table for features that people would pay a lot for.
+
+LENNY: How do you figure out willingness to pay before you've built anything?
+
+MADHAVAN RAMANUJAM: The most powerful technique is called the Van Westendorp price sensitivity meter. You ask potential customers four questions: At what price would this be too cheap to take seriously? At what price would this be getting expensive but you'd still consider it? At what price would this be too expensive to consider? At what price would this be a bargain?
+
+The intersection of those responses gives you an "acceptable price range" and the optimal price point. This takes a few hours of research and can save you millions in misaligned product investment.
+
+The second technique is feature prioritization through willingness-to-pay ranking. You present potential customers with a list of potential features and ask them: which of these would make you willing to pay more, and how much more? This tells you what to build first and what to deprioritize.
+
+LENNY: What are the most common pricing mistakes for SaaS products?
+
+MADHAVAN RAMANUJAM: Three big ones.
+
+First: feature-based pricing, also called "good, better, best" tiers that are differentiated only by feature count. Customers don't buy features — they buy outcomes. If your premium tier has more features but doesn't promise a better outcome, customers won't upgrade.
+
+Second: using cost-plus pricing. You calculate your costs and add a margin. This is completely backwards. Price should be determined by value to the customer, not by your costs. Your costs are irrelevant to the customer.
+
+Third: never adjusting price. Most SaaS companies set their price at launch and never change it, even as the market evolves, as they add features, as competitors change. Pricing should be reviewed at minimum annually. I've seen companies that hadn't changed their price in five years, and when we benchmarked against the market, they were significantly underpriced. That's leaving tens of millions on the table.
+
+LENNY: What's the best pricing model for most SaaS businesses?
+
+MADHAVAN RAMANUJAM: Usage-based pricing — where you charge based on how much value a customer extracts — is often the best model if you can implement it. It aligns your incentives perfectly with your customers'. As they succeed with your product, they use it more, and they pay you more. Datadog, Snowflake, Twilio — these companies built enormous businesses on usage-based pricing.
+
+The challenge is cash flow predictability. Usage-based models have more revenue volatility than subscription models. The solution most good companies implement is a hybrid: a base subscription that provides a floor of revenue, plus usage-based charges above that floor. This gives you predictability with the upside of usage alignment.
+
+LENNY: How should early-stage startups think about pricing?
+
+MADHAVAN RAMANUJAM: Don't underprice. This is counterintuitive but critical. Most early-stage founders underprice because they're insecure about whether their product is "worth it." But low prices send a signal of low quality, and they attract price-sensitive customers who will churn at the first cheaper alternative.
+
+I tell early-stage founders: price at the top of what you believe the market will bear. Then have explicit conversations with your first ten customers about whether the price feels right. If nobody complains about the price, you're probably underpriced. If more than 30% of prospects reject on price alone, you're probably overpriced.
+
+The optimal rejection rate on price is around 15-20%. That means you're at the edge of what the market will bear — which is where you want to be.
+
+LENNY: What's the one thing founders should do right now to improve their monetization?
+
+MADHAVAN RAMANUJAM: Talk to customers about money. Specifically: ask them what they'd pay for your product today, ask them what would make them willing to pay twice as much, and ask them what feature or service they'd pay for separately if you offered it.
+
+Most founders and PMs are afraid of money conversations. They avoid them. But those conversations are goldmines. The answers will reshape how you think about your product roadmap and your pricing strategy more than any A/B test or analytics dashboard ever will.

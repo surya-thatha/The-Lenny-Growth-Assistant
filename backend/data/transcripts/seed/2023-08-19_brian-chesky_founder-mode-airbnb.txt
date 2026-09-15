@@ -1,0 +1,44 @@
+---
+title: How Airbnb Builds Products — Brian Chesky on Founder Mode
+guest: Brian Chesky
+date: 2023-08-19
+url: https://www.lennysnewsletter.com/p/brian-chesky-on-founder-mode
+---
+
+This conversation covers how Brian Chesky rebuilt Airbnb's culture and product process after COVID nearly destroyed the company, and the leadership philosophy he calls "Founder Mode."
+
+LENNY: Brian, you've talked publicly about this idea of "founder mode" — what does that actually mean to you?
+
+BRIAN CHESKY: Founder mode is this idea that there's a way to run a company as a founder that's quite different from what business schools typically teach. The conventional wisdom — what I'd call "manager mode" — is to hire great people, give them autonomy, get out of the way, and manage through objectives. The problem is that for most companies, as you scale, you get this bureaucratic layer forming between you and the actual product work.
+
+Founder mode means being deeply involved in the details. Not micromanaging individuals, but being deeply connected to what's actually being built and why. Steve Jobs was doing this. He had a meeting every week with his 100 most important people at Apple, crossing hierarchical levels entirely.
+
+LENNY: How did you get back to that at Airbnb after the pandemic?
+
+BRIAN CHESKY: COVID was a crucible. We went from $10 billion in revenue to almost zero overnight. We had to lay off a quarter of our workforce. And in rebuilding from that, we made some deliberate choices.
+
+The first choice was focus. We went from offering thirty-something product categories to focusing on just the core: Hosts, Guests, and the core trip experience. Every quarter we eliminated things. We said: do fewer things but make those things extraordinary.
+
+The second thing was that I got back into the product directly. I started doing weekly product reviews. Not just updates — actual reviews where I'm looking at designs, questioning decisions, pushing on the details. The founders of great companies are usually the best product people in the company. If you're not spending most of your time on product, you're probably wasting your time.
+
+LENNY: What does a great product review look like for you?
+
+BRIAN CHESKY: It's not a presentation. Presentations are theater. I want to actually use the product. I want to see the design. I want to ask: "Why did you make this decision?" And then I want to go deeper. Why is this button here? What did we learn from testing? What would make this feel magical rather than just functional?
+
+The best product reviews feel like creative collaboration, not status updates. They're uncomfortable in a good way — they push people to defend their choices, which makes their thinking sharper.
+
+LENNY: What's the most important lesson you've learned about building products?
+
+BRIAN CHESKY: Details matter more than most people think. When you design something — a product, a service, anything — every detail is either a decision or an oversight. If it's a decision, it reflects your values. If it's an oversight, it reflects your lack of attention.
+
+Airbnb's best features — the things that made people feel magic — came from obsessing over details that other people thought were too small to worry about. The host guarantee. The photography program. The way we display check-in instructions. None of these were "big bets." They were details that accumulated into trust.
+
+The companies that lose their way usually stop caring about the details. They start thinking about "strategy" as something separate from the product. It's not. Strategy is expressed in every pixel.
+
+LENNY: What's the one thing most product leaders get wrong?
+
+BRIAN CHESKY: They optimize for the wrong thing. Most product leaders optimize for shipping. More features, more launches, more velocity. The metric becomes "how much are we shipping" rather than "how much are people loving what we ship."
+
+The best companies I admire — Apple, Pixar in their peak years — they had a very different cadence. They shipped fewer things, but those things were remarkable. Remarkable in the literal sense: they made people remark. They made people tell their friends.
+
+The question I ask at every product review is not "is this good enough?" It's "is this something people will tell their friends about?" If the answer is no, we're not done.

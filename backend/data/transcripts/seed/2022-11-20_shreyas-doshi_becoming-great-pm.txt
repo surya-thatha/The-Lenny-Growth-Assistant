@@ -1,0 +1,56 @@
+---
+title: Becoming a Great Product Manager — Shreyas Doshi on PM Excellence
+guest: Shreyas Doshi
+date: 2022-11-20
+url: https://www.lennysnewsletter.com/p/shreyas-doshi-pm-excellence
+---
+
+Shreyas Doshi is a former product leader at Stripe, Twitter, Google, and Yahoo. He's known for his frameworks on product thinking, PM career development, and the difference between great and average product managers.
+
+LENNY: Shreyas, you've worked with PMs across some of the world's best product companies. What's the biggest difference between good PMs and great PMs?
+
+SHREYAS DOSHI: The biggest difference is something I call "upstream thinking." Most PMs focus on the immediate problem in front of them. Great PMs ask: why is this problem in front of me? What upstream decision or situation created this problem? Can I solve it upstream rather than downstream?
+
+Here's a concrete example. A PM might be asked to "improve checkout conversion." The downstream PM analyzes the checkout flow, runs A/B tests, optimizes the form. The upstream PM asks: why is checkout conversion low? Is it a trust problem? A pricing problem? A product-market fit problem in this segment? Depending on the answer, the solution might not be in the checkout flow at all.
+
+LENNY: How do you define what makes a product truly great?
+
+SHREYAS DOSHI: I have a framework I call the LNO framework — Leverage, Neutral, and Overhead tasks. Most PMs spend their time on tasks that are Overhead (necessary but no leverage) or Neutral (some leverage but not high). Great PMs identify the Leverage tasks — the things that produce 10x more output than the time invested — and ruthlessly focus on those.
+
+But to answer your question about what makes a product great: great products have three properties. They create significant value for users, they capture a meaningful portion of that value for the business, and they do so in a way that's defensible over time.
+
+The hardest of these is the third. Creating value is relatively straightforward with good research and execution. Capturing value is a pricing and business model challenge. But defensibility requires a moat — network effects, switching costs, unique data, or some other structural advantage.
+
+LENNY: What's the most important skill for a PM to develop?
+
+SHREYAS DOSHI: Taste. By which I mean the ability to recognize quality — in writing, design, product decisions, strategy. Taste is underrated because it's hard to teach and hard to measure, but it compounds enormously over a career.
+
+PMs with good taste make better prioritization decisions, give better feedback to designers and engineers, write clearer specs, and develop better product instincts. Taste is the meta-skill that improves all the others.
+
+How do you develop taste? Consume great things deliberately. Study why they're great, not just that they are. Read great writers and ask why their prose works. Use great products and ask why they feel right. Look at great designs and articulate what makes them good. Over years, this deliberate practice builds taste.
+
+LENNY: You've written a lot about the "trap of visible work." What is it?
+
+SHREYAS DOSHI: The trap of visible work is when PMs — or anyone in knowledge work — optimize for work that looks productive rather than work that is productive.
+
+PMs fall into this trap because PM work is inherently ambiguous. You could spend a day writing detailed specs, attending every stakeholder meeting, maintaining a beautifully organized backlog. All of that is visible work. Or you could spend that day doing three things: deeply interviewing one frustrated customer, synthesizing that into a clear opportunity hypothesis, and sharing that synthesis with your team. That's less visible but almost certainly more valuable.
+
+The incentive in most organizations rewards visible work. You get recognized for shipping things, for being in meetings, for maintaining artifacts. The dangerous PMs are those who have optimized so thoroughly for visible work that they've forgotten what they're supposed to be doing.
+
+LENNY: What's your advice for PMs early in their careers?
+
+SHREYAS DOSHI: Three things.
+
+First: become an expert in your users. Not a superficial expert — a deep expert. Know the words they use, the jobs they're trying to get done, the frustrations they can't quite articulate. If you're not spending significant time with actual users every week, you're probably guessing about what matters.
+
+Second: build your writing muscle. The best PMs I've worked with are exceptional writers. Writing forces clarity of thought. If you can't explain a product decision clearly in writing, you probably don't understand it clearly yourself.
+
+Third: develop a point of view. Junior PMs often avoid having opinions because they're afraid of being wrong. But the goal of an PM isn't to never be wrong — it's to be right often enough and to be correctable when you're wrong. PMs who don't develop points of view don't develop judgment. Judgment is everything at senior levels.
+
+LENNY: What separates PMs who reach VP level from those who plateau?
+
+SHREYAS DOSHI: The shift that's required is from maker to multiplier. Good PMs make great things themselves. Great VPs of Product create conditions where other PMs make great things.
+
+The multiplier skills are: recruiting (finding and attracting exceptional PMs), developing (coaching PMs to be better than they'd be otherwise), aligning (ensuring PMs are working on the highest-impact problems), and culture (creating norms that make the PM team greater than the sum of its parts).
+
+Most PMs who plateau at the director level are still operating as makers — they're still the ones with the great ideas, the great execution, the great judgment. They haven't made the shift to multiplying others' judgment and execution. That shift is both the hardest and the most important thing to accomplish in a senior product career.

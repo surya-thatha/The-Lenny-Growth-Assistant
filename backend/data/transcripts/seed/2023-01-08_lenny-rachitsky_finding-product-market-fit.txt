@@ -1,0 +1,57 @@
+---
+title: How to Find Product-Market Fit — Lenny's Framework
+guest: Lenny Rachitsky
+date: 2023-01-08
+url: https://www.lennysnewsletter.com/p/finding-product-market-fit
+---
+
+Lenny Rachitsky shares his research-backed framework for finding and measuring product-market fit, synthesized from interviews with over 100 founders and product leaders.
+
+LENNY: I've spent a lot of time researching how companies find product-market fit, and I want to share what I've learned. Let me start with what I think is the most important point: product-market fit is not a single moment. It's a zone you enter and exit.
+
+The metaphor I like is a dimmer switch, not a light switch. You don't suddenly "have" product-market fit — you gradually move toward it, and you can lose it just as gradually. The best founders are constantly asking: are we moving toward PMF or away from it?
+
+On the question of how to measure it: the most actionable metric I've found is the Sean Ellis test. You survey your active users — people who've used the product in the last two weeks — and you ask them: "How would you feel if you could no longer use this product?" The options are very disappointed, somewhat disappointed, or not disappointed.
+
+If more than 40% say they'd be very disappointed, you likely have product-market fit in that segment. Below 40% is a signal you need to keep iterating.
+
+LENNY: What are the most common mistakes founders make when searching for PMF?
+
+First mistake: solving for a market that doesn't exist yet. Timing matters enormously. Webvan failed in 2000 doing exactly what Instacart succeeded doing in 2012. The product wasn't the issue — the market wasn't ready. Smartphones changed everything for local delivery.
+
+Second mistake: talking to too many types of users at once. Most products initially try to be for everyone. The companies that find PMF fastest narrow relentlessly. They pick one customer archetype and obsess over it. Figma initially focused exclusively on product designers. Notion initially focused on startup founders and indie hackers. Slack originally built for gaming companies.
+
+Third mistake: mistaking "people like the demo" for "people use the product." Demo satisfaction and actual retention are almost uncorrelated. You need retention data, not survey satisfaction data.
+
+LENNY: What does the path to PMF look like in practice?
+
+From my research, there are three broad paths:
+
+Path one: start with the customer, then the product. You deeply understand a customer segment and their pain before you build anything. This is the Marc Benioff / Salesforce approach. Benioff had worked inside enterprise software companies for years before starting Salesforce. He knew the pain intimately.
+
+Path two: start with the technology, then find the customer. You have a technical insight or capability and you discover who it's most valuable for. This is how Google started — they had a better search algorithm and had to figure out who cared enough to pay.
+
+Path three: start with the market opportunity, then build for it. You identify a large underserved market — usually through data or category research — and you work backward to the product. This is the Benchmark Capital / Josh Kopelman approach to investing in companies.
+
+None of these paths is strictly better. The key variable is founder context: what do you know deeply, and what customer problem can you access authentically?
+
+LENNY: How do you know when you're close to PMF?
+
+There are leading indicators that something is working:
+- Users are coming back unprompted, without email nudges
+- Users are complaining when you change or remove features — complaints are good, silence is bad
+- Your NPS is rising without you actively optimizing it
+- Customer support requests shift from "how do I..." to "can you add..."
+- Word-of-mouth referrals are happening spontaneously
+
+And the ultimate signal: retention curves that flatten at a meaningful level. Flat retention means you have a durable user base. The absolute level matters less than the shape of the curve.
+
+LENNY: What's the relationship between PMF and pricing?
+
+Pricing is one of the most powerful signals of PMF. If users are willing to pay your target price without significant objection, that's a strong PMF signal. If every deal requires a huge discount, or if free users don't convert to paid, that's a signal you haven't fully solved the value problem.
+
+The Superhuman approach to PMF measurement — doing 40% on the "very disappointed" question per segment, and then only investing in the features that matter to those who would be very disappointed — is one of the most rigorous frameworks I've seen.
+
+LENNY: For product managers and founders listening, what's the one thing they should do this week?
+
+Run the Sean Ellis survey with your most active users. Segment the results by user type, acquisition channel, and use case. Look at what your "very disappointed" users have in common that your "not disappointed" users don't. That difference is your product-market fit signal hiding in plain sight.

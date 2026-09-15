@@ -1,0 +1,56 @@
+---
+title: Building Stripe — Patrick Collison on API Design and Developer Experience
+guest: Patrick Collison
+date: 2023-09-10
+url: https://www.lennysnewsletter.com/p/patrick-collison-stripe
+---
+
+Patrick Collison, CEO and co-founder of Stripe, discusses how the company built one of the most beloved developer products in history, and the principles behind exceptional developer experience.
+
+LENNY: Patrick, Stripe is famous for developer experience. How did you think about DX from the beginning?
+
+PATRICK COLLISON: We started from a very simple observation: the existing payment APIs in 2010 were genuinely terrible. Developers dreaded integrating them. The documentation was confusing, the test modes were unreliable, and you often didn't know if your integration worked until you went live and something broke.
+
+So we asked ourselves: what would the ideal developer experience look like? And the answer we landed on was: you should be able to integrate a payment API in an afternoon, with a working test environment that mirrors production exactly, with documentation that's so clear you never need to contact support.
+
+That set the bar. Everything else followed from that.
+
+LENNY: What does it actually mean to have great documentation?
+
+PATRICK COLLISON: Great documentation is honest. It tells you what the API does, but also what it doesn't do, what the edge cases are, what will break if you do something in a certain order. Most documentation is aspirational — it describes the happy path. Great documentation also describes the sad paths.
+
+The second property of great documentation is that it respects the reader's intelligence. Don't explain what a function call is to someone who is integrating your API. They know what a function call is. But do explain why your API is designed the way it is — what tradeoff you made and why. That context is almost never in documentation and it's almost always what developers want to know.
+
+Third: make the first experience magical. The first thing a developer does should produce a real, working result in under five minutes. Not "hello world" but something genuinely useful. For Stripe, we designed the onboarding so that the first API call you made processed an actual test payment. That's a meaningful result.
+
+LENNY: How does Stripe think about product decisions?
+
+PATRICK COLLISON: We think a lot about what I'd call "the adjacent possible" — the set of things your customers could build if you existed, that they couldn't build before. Our job is to expand the adjacent possible as quickly as possible.
+
+Most companies think about features as "what do our customers want?" We also ask "what should our customers be able to do that they currently think is impossible?" Those are different questions with very different answers.
+
+For example, when we built Stripe Connect for marketplaces, most marketplace founders thought building a payout system to third parties was a six-month engineering project. We made it a weekend project. That changed what kinds of businesses people thought they could start.
+
+LENNY: What's your view on product complexity? When does adding features help vs hurt?
+
+PATRICK COLLISON: Features have a dual nature. Every feature adds value to some users and adds complexity for all users. The question is whether the value created for the users who need the feature justifies the complexity cost imposed on everyone.
+
+Simple products optimize for breadth — they work well for everyone at a moderate level. Complex products optimize for depth — they work exceptionally well for users with specific, sophisticated needs.
+
+Stripe has deliberately chosen depth. We've added hundreds of features that most Stripe users will never use. But the users who need those features need them critically, and the value we create for them is enormous. The risk is that complexity accumulates until the product becomes unusable for simpler use cases.
+
+The way we try to manage this is through progressive disclosure — simple things should be easy, complex things should be possible, and the interface shouldn't make you feel stupid for not knowing about the complex things if you don't need them.
+
+LENNY: What separates good product leaders from great ones in your experience?
+
+PATRICK COLLISON: The best product leaders I've encountered have what I'd describe as genuine curiosity about the problem space. Not performed interest — real curiosity that leads them to read academic papers, interview unusual users, study analogous products in different industries.
+
+The second thing is what I'd call taste for the essential. Great product leaders can look at a complex problem and identify the single most important thing to get right. This sounds simple but it's genuinely rare. Most people, when faced with complexity, add more complexity. Great product leaders subtract.
+
+Third: epistemic humility about their own intuitions. Product intuition is valuable but it's also often wrong. The best product leaders hold their intuitions loosely enough to update them when evidence contradicts them. The worst hold them so tightly that no amount of evidence can dislodge them.
+
+LENNY: What would you do differently if you were starting Stripe today?
+
+PATRICK COLLISON: We would invest in developer education earlier. The biggest constraint on Stripe's growth in the early years wasn't product quality or even distribution — it was that developers often didn't fully understand what Stripe was capable of. We'd build more demos, more sample applications, more "build X with Stripe" tutorials.
+
+The second thing: we'd build for non-developers earlier. We were so focused on developers that we underinvested in the non-technical users — the CFOs, the finance teams, the business owners — who interact with Stripe's dashboard but aren't writing code. Their needs are different from developers and we came to serve them late.
