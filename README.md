@@ -275,6 +275,4 @@ oogway/
 
 ---
 
-## Demo Video Script
 
-See [`demo-script.md`](./demo-script.md) for the 2-3 minute YouTube demo talking points.
